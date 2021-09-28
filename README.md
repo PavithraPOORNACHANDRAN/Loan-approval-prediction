@@ -7,7 +7,8 @@ So, this problem is tackled by using machine learning models. We did experiment 
 
 ## Installation
 
-The Code is written in Python 3.7. If you don't have Python installed you can find it here. If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. 
+The Code is written in Python 3.7. If you don't have Python installed you can find it https://www.python.org/downloads/ 
+If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. 
 
 We were used Python for this course along with the below-listed libraries.
 
